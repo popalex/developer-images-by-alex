@@ -1,4 +1,4 @@
-# Developer Images
+# Developer Images By Alex
 
 [![Build of UBI 8 based Developer Images](https://github.com/devfile/developer-images/actions/workflows/ubi8-build.yaml/badge.svg)](https://github.com/devfile/developer-images/actions/workflows/ubi8-build.yaml)
 
@@ -106,7 +106,7 @@ docker run -ti --rm \
 | `go`                |`go-toolset`                         |
 | `gopls`             |`golang.org/x/tools/gopls`           |
 |--------.NET---------|-------------------------------------|
-| `dotnet`            |`dotnet-sdk-6.0`                     |
+| `dotnet`            |`dotnet-sdk-8.0`                     |
 |------PYTHON---------|-------------------------------------|
 | `python`            |`python3.11`                         |
 | `setuptools`        |`python3.11-setuptools`              |
